@@ -7,7 +7,7 @@ public class VariablesTiposDatos {
         Double precio = 2500000d;
         Integer cantidad = 5;
         boolean disponible = true;
-        Character codigoProducto = 'a';
+        char codigoProducto = 'a';
 
         System.out.println(String.format("Nombre Producto: %S", nombre));
 
